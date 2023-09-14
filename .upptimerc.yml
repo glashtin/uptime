@@ -5,7 +5,19 @@ repo: uptime # The name of this repository
 sites:
   - name: Kith's Creations
     url: https://kithcreations.com
-
+  - name: Gennings Lawn
+    url: https://www.genningslawn.com
+  - name: I Scoop for You
+    url: https://iscoopforyou.com
+  - name: M3 ToolBox
+    url: https://m3toolbox.com
+  - name: Lifeway One Source
+    url: https://prospectservice.lifewaystores.com
+  - name: PMC
+    url: https://order.tpmco.com
+  - name: Lexinet Prints
+    url: https://lexinetprints.com
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
