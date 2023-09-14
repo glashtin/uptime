@@ -26,6 +26,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://avatars.githubusercontent.com/u/6536683?v=4
+  themeName: ocean
   name: Site Status
   introTitle: ""
   introMessage: ""
