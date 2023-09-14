@@ -25,13 +25,13 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Glash UpTime
-  introTitle: "Site Status"
+  logoUrl: https://avatars.githubusercontent.com/u/6536683?v=4
+  name: Site Status
+  introTitle: ""
   introMessage: ""
   navbar:
     - title: Status
-      href: /
+      href: /uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
