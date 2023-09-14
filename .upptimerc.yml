@@ -17,6 +17,8 @@ sites:
     url: https://order.tpmco.com
   - name: Lexinet Prints
     url: https://lexinetprints.com
+  - name: Agent Z Marketing
+    url: https://www.agentzmarketing.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
