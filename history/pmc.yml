@@ -1,7 +1,7 @@
 url: https://order.tpmco.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-15T23:54:16.178Z
+status: up
+code: 200
+responseTime: 467
+lastUpdated: 2023-09-16T01:37:15.433Z
 startTime: 2023-09-14T11:47:26.727Z
 generator: Upptime <https://github.com/upptime/upptime>
