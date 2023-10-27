@@ -4,10 +4,10 @@
     "url": "https://kithcreations.com",
     "icon": "https://icons.duckduckgo.com/ip3/kithcreations.com.ico",
     "slug": "kith-s-creations",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1461,
@@ -15,16 +15,18 @@
     "timeWeek": 1302,
     "timeMonth": 2007,
     "timeYear": 1461,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-27": 1
+    }
   },
   {
     "name": "Gennings Lawn",
     "url": "https://www.genningslawn.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.genningslawn.com.ico",
     "slug": "gennings-lawn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 1947,
     "timeMonth": 2137,
     "timeYear": 1992,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-27": 0
+    }
   },
   {
     "name": "I Scoop for You",
@@ -140,11 +144,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lexinetprints.com.ico",
     "slug": "lexinet-prints",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 956,
     "timeDay": 574,
     "timeWeek": 1013,
@@ -161,11 +165,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.agentzmarketing.com.ico",
     "slug": "agent-z-marketing",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.78%",
     "time": 994,
     "timeDay": 561,
     "timeWeek": 531,
