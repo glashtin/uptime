@@ -4,19 +4,19 @@
     "url": "https://kithcreations.com",
     "icon": "https://icons.duckduckgo.com/ip3/kithcreations.com.ico",
     "slug": "kith-s-creations",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1531,
-    "timeDay": 1825,
-    "timeWeek": 1587,
-    "timeMonth": 1585,
-    "timeYear": 1531,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1530,
+    "timeDay": 1674,
+    "timeWeek": 1563,
+    "timeMonth": 1579,
+    "timeYear": 1530,
     "dailyMinutesDown": {
-      "2023-12-27": 2
+      "2023-12-27": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.genningslawn.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.genningslawn.com.ico",
     "slug": "gennings-lawn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2075,
-    "timeDay": 525,
-    "timeWeek": 1676,
-    "timeMonth": 2123,
-    "timeYear": 2075,
+    "time": 2073,
+    "timeDay": 1226,
+    "timeWeek": 1707,
+    "timeMonth": 2117,
+    "timeYear": 2073,
     "dailyMinutesDown": {
-      "2023-12-27": 0
+      "2023-12-27": 7
     }
   },
   {
