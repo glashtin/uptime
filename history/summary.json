@@ -184,19 +184,19 @@
     "url": "https://lexasr.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/lexasr.netlify.app.ico",
     "slug": "asr-nuxt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 1844,
-    "timeWeek": 619,
-    "timeMonth": 260,
-    "timeYear": 332,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 329,
+    "timeDay": 1239,
+    "timeWeek": 553,
+    "timeMonth": 253,
+    "timeYear": 329,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 9
     }
   }
 ]
