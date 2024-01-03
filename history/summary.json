@@ -4,18 +4,20 @@
     "url": "https://kithcreations.com",
     "icon": "https://icons.duckduckgo.com/ip3/kithcreations.com.ico",
     "slug": "kith-s-creations",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1533,
-    "timeDay": 1815,
-    "timeWeek": 1620,
-    "timeMonth": 1578,
-    "timeYear": 1533,
-    "dailyMinutesDown": {}
+    "time": 1545,
+    "timeDay": 2501,
+    "timeWeek": 1777,
+    "timeMonth": 1625,
+    "timeYear": 1545,
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "Gennings Lawn",
@@ -184,19 +186,19 @@
     "url": "https://lexasr.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/lexasr.netlify.app.ico",
     "slug": "asr-nuxt",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 329,
-    "timeDay": 1239,
-    "timeWeek": 553,
-    "timeMonth": 253,
-    "timeYear": 329,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 363,
+    "timeDay": 1692,
+    "timeWeek": 803,
+    "timeMonth": 335,
+    "timeYear": 363,
     "dailyMinutesDown": {
-      "2024-01-03": 9
+      "2024-01-03": 0
     }
   }
 ]
