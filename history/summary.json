@@ -4,19 +4,19 @@
     "url": "https://kithcreations.com",
     "icon": "https://icons.duckduckgo.com/ip3/kithcreations.com.ico",
     "slug": "kith-s-creations",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1545,
-    "timeDay": 2501,
-    "timeWeek": 1777,
-    "timeMonth": 1625,
-    "timeYear": 1545,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1549,
+    "timeDay": 2328,
+    "timeWeek": 1795,
+    "timeMonth": 1636,
+    "timeYear": 1549,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 11
     }
   },
   {
@@ -186,19 +186,19 @@
     "url": "https://lexasr.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/lexasr.netlify.app.ico",
     "slug": "asr-nuxt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 1692,
-    "timeWeek": 803,
-    "timeMonth": 335,
-    "timeYear": 363,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 359,
+    "timeDay": 1367,
+    "timeWeek": 736,
+    "timeMonth": 327,
+    "timeYear": 359,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 11
     }
   }
 ]
